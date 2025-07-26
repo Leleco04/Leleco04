@@ -87,9 +87,10 @@ align="left"
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 style="width: 3rem; padding-right: 10px;" 
-align="left"
-/>
-          
+align="left"/>
+
+<br/>
+
 ### 📊 Estatísticas
 
 <img 
