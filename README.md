@@ -89,7 +89,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 style="width: 3rem; padding-right: 10px;" 
 align="left"/>
 
-<br/>
+<br>
 
 <p style="margin-top: 3rem;"></p>
 
