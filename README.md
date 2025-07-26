@@ -1,6 +1,6 @@
 # Leandro Hideki Tsuchida 👋
 
-*Desenvolvedor FullStack | Estudante de Engenharia de Software*
+**`Desenvolvedor FullStack | Estudante de Engenharia de Software`**
 
 ---
 
