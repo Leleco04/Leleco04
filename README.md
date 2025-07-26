@@ -91,7 +91,7 @@ align="left"/>
 
 <br>
 
-<p style="margin-top: 3rem;"></p>
+<p style="margin-top: 3rem;">dwadwadwad</p>
 
 ### 📊 Estatísticas
 
