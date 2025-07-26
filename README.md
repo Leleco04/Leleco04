@@ -94,12 +94,14 @@ align="left"
 
 <img 
 src="https://github-readme-stats.vercel.app/api?username=Leleco04&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-style="width: 30rem; padding-right: 10px; height: 30rem;" 
+style="padding-right: 10px;" 
+height= "200"
 align="left"
 />
 
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leleco04&theme=radical&layout=compact&custom_title=Tecnologias" 
-style="width: 15rem; padding-right: 10px; height: 15rem;" 
+style="padding-right: 10px" 
+height= "200"
 align="left"
 />
