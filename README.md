@@ -91,6 +91,8 @@ align="left"/>
 
 <br/>
 
+<p style="margin-top: 3rem;"></p>
+
 ### 📊 Estatísticas
 
 <img 
